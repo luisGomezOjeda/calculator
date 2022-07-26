@@ -10,7 +10,7 @@ const body = document.querySelector("body");
   ? button__selector[0].checked = true
   : (color === "theme_2")
   ? button__selector[1].checked = true
-  : button__selector[1].checked = true
+  : button__selector[2].checked = true
  } 
 })()
 
